@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nihar-calculator/static/css/main.4f2ab5b9.css",
+    "main.js": "/nihar-calculator/static/js/main.b8d10db9.js",
+    "index.html": "/nihar-calculator/index.html",
+    "main.4f2ab5b9.css.map": "/nihar-calculator/static/css/main.4f2ab5b9.css.map",
+    "main.b8d10db9.js.map": "/nihar-calculator/static/js/main.b8d10db9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f2ab5b9.css",
+    "static/js/main.b8d10db9.js"
+  ]
+}
